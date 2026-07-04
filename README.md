@@ -54,7 +54,7 @@ After changing `.env`, stop the dev server with `Ctrl + C` and run `npm run dev`
 
 ## Live Demo
 
-Live demo: coming soon.
+[Live demo](https://cinevia-by-salma.netlify.app/)
 
 ## Future Improvements
 
