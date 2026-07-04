@@ -27,7 +27,25 @@ Cinevia is a cinematic movie explorer built with React, TypeScript, Vite, Tailwi
 
 ## Screenshots
 
-Add screenshots here after deploying or running the app locally.
+### Home
+
+![Cinevia home page](public/screenshots/home.png)
+
+### Search
+
+![Cinevia search page](public/screenshots/search.png)
+
+### Genres
+
+![Cinevia genres page](public/screenshots/genres.png)
+
+### Watchlist
+
+![Cinevia watchlist page](public/screenshots/watchlist.png)
+
+### Favorites
+
+![Cinevia favorites page](public/screenshots/favorites.png)
 
 ## Installation
 
